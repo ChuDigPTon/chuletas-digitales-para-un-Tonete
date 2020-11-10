@@ -1,0 +1,6 @@
+Un circuito eléctrico es un conjunto de dispositivos conectados entre sí, por el que pasa la corriente eléctrica. Este consta de:
+	-Un generador que produce la energía necesaria (pilas, alternadores o baterías).
+	-Unos hilos conductores que conectan el resto de componentes (conductores).
+	-Un receptor, que transforma la energía eléctrica en otro tipo de energía (bombillas, motores o resistencias).
+	-Un aparato de medida (opcional), como un voltímetro o un amperímetro.
+	-Un aparato de control (opcional), como un interruptor.

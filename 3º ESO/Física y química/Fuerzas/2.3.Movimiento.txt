@@ -1,0 +1,21 @@
+El movimiento es el cambio de posición de un cuerpo a lo largo de u tiempo.
+
+*Conceptos*
+Móvil: el cuerpo que se mueve.
+Punto de referencia: punto donde se empieza a medir.
+Posición: punto donde se ubica el móvil en un tiempo determinado.
+Desplazamiento: línea recta entre el punto incial y el final.
+Espacio recorrido: distancia total que recorre el móvil. Se mide sobre la trayectoria.
+Trayectoria: camino imaginario que une los puntos sobre los que ha pasado el móvil.
+
+Velocidad: es el espacio recorrido en una cantidad de tiempo. Relaciona las magnitudes de espacio y tiempo.
+Aceleración: es el cambio de velocidad de un cuerpo en una cantidad de tiempo. Relaciona las magnitudes de velocidad y tiempo.
+
+Movimiento rectilíneo uniforme (MRU): movimiento en el que la velocidad es uniforme. La trayectoria es equivalente al desplazamiento.
+
+V= (xf-xi) / (tf-ti)
+
+Movimiento uniformemente acelerado (MRUA): movimiento en el que el móvil acelera de manera uniforme. La trayectoria es equivalente al desplazamiento.
+
+a = (vf-vi) / (tf-ti)	a = [(vf * vf) - (vi * vi)] / 2x		xf = xi + vt + 0.5a (t * t)
+

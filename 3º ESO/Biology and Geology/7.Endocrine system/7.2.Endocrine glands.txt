@@ -1,0 +1,48 @@
+*PITUITARY GLAND*
+Secretes:
+	-FSH (folliclestimulating hormone): stimulates the follicles (female) and the sperm production (male).
+	-LH (luteinising hormone): causes ovulation and stimulates the corpus luteum (female) and the androgen production (male).
+	-TSH (thyrotropin): stimulates the thyroid gland.
+	-GH (growth hormone): stimulates the growth and lengthening of the bones. 
+	-LTH (prolactin): stimulates the mammary glands.
+	-ACTH (adrenocorticotropic hormone): stimulates adrenal glands.
+	-Vasopressin: stimulates the reabsorption of water in the kidneys.
+	-Oxytocin: controld the uterine contractions during labour.
+	
+	
+*THYROID AND PARATHYROID*
+The thyroid secretes:
+	-Thyroxine: controls cell metabolism and development.
+	-Calcitonin: reduces blood calcium levels (bone growth).
+The parathyroid secretes parathormone, which increases blood calcium levels (bone renewal).
+
+
+*PANCREAS*
+Secretes:
+	-Insulin: reduces blood glucose levels.
+	-Glucagon: increases blood glucose levels.
+
+
+*THYMUS*
+Mainly active during puberty. It then shrinks and is partially replaced by fat.
+It plays an important role in defense: it secretes thymosin, which stimulates the development of T-cells.
+
+
+*ADRENAL GLANDS*
+Secretes:
+	-Adrenaline and ther sympathetic neurotransmitters: it activates the sympathetic nervous system. It is released in the medulla.
+	-Corticotropin: anti-inflamatory effect. It also controls the metabolism of minerals salts and carbohydrates. It is released in the cortex.
+	
+	
+*OVARIES*
+Secretes:
+	-Progesterone: controls the menstrual cycle.
+	-Oestrogens: controls the female sex characteristics and the menstrual cycle.
+	
+
+*TESTICLES*
+Secretes androgens, responsible of male sex characteristics.
+
+
+*PINEAL GLAND*
+It releases melatonin, which controls the cycles of sleep, rest, activity, menstrual cycles and heart rhythms.

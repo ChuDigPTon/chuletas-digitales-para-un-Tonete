@@ -1,0 +1,23 @@
+Cinemática: rama de la física que estudia el movimiento sin tener en cuenta las fuerzas que lo provocan.
+Movimiento: cambio de posición a lo largo de un periodo de tiempo.
+
+Sistema de referencia: conjunto de ejes y el origen desde el cual se estudia el movimiento.
+Móvil: cuerpo que se mueve. Es puntual si es pequeño comparado con su trayectoria.
+Trayectoria: conjunto de puntos por los que pasa el móvil. Puede ser rectilíneo o curvilíneo.
+Espacio recorrido: distancia medida sobre la trayectoria. Magnitud escalar.
+Posición: punto en el que se encuentra el móvil en cada momento. Magnitud vectorial.
+Desplazamiento: distancia en línea recta entre la posición inicial y final. Magnitud vectorial. Coincide con el espacio recorrido si la trayectoria es recta y no hay cambios de sentido.
+Velocidad: cambio de posición en un intervalo de tiempo. Magnitud vectorial.
+--Rapidez: espacio recorrido en un intervalo de tiempo. Magnitud escalar.
+Aceleración: incremento de velocidad en un intervalo de tiempo. Magnitud vectorial.
+Gráfica x-t: indica la posición del móvil en cada momento.
+Gráfica v-t: indica la velocidad del móvil en cada momento.
+Gráfica a-t: indica la aceleración del móvil en cada momento.
+Gráfica x-y: indica la posición del móvil.
+
+Expresión general: expresión que define todo tipo de movimiento.
+Expresión concreta: expresión basada en la general modificada con los datos obtenidos y que define un movimiento específico.
+
+MRU: tiene una trayectoria recta y una velocidad constante. La aceleración es nula. (Xf = X0+v*t)
+MRUA: tiene una trayectoria recta y una aceleración constante. Velocidad variable en función de la aceleración. (Xf = X0+v0*t+1/2a*t^2) (Vf = V0+a*t)
+--Caída libre: MRUA con trayectoria vertical y afectado por la fuerza de la gravedad.

@@ -1,0 +1,18 @@
+*The cardiac cycle*
+It is divided into systole and diastole.
+
+Systole: period fo contraction. It is divided into:
+-Atrial systole: the atria contract and blood (30%) goes into the ventricles. The atrioventrivular valves then close to prevent the blood from flowing backwards.
+-Ventricular systole: the ventricles contract and the pressure of blood opens the semilunar valves. After the blood goes to the arteries, the semilunar valves close.
+
+Diastole: period of relaxation. It is usually longer than systole.The heart relaxes. The atria fill with with blood. The atrioventricular valves open and blood goes into the ventricles (70%). A new cycle starts.
+
+The blood goes from the atria to the ventricles in 2 stages (30% and 70%) so the atria do not have to contract too much.
+
+Heart sounds: LUB (or S1) sounds when the atrioventricular valves close. DUB (or S2) sounds when the semilunar valves close. If the valves do not close properly, heart murmur happens.
+
+
+*Blood circulation*
+It is double (flows 2 times to the heart to complete one), complete (oxygenated and deoxygenated blood never mix) and closed (remains inside blood vessels).
+-Pulmonary circuit: deoxygenated blood (dark red) flows from the right atrium to the right ventricle,then to the pulmonary artery, and lungs (gas exchange happens), then to the pulmonary veins, and finally the left atrium.
+-Sistemic circuit: oxygenated blood (bright red) flows from the left atrium to the left ventricle, then to the aorta, all cells in the body (gas exchange happens), vena cavae, and finally to the right atrium.

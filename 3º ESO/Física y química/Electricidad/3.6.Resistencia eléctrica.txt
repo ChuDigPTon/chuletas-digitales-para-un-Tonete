@@ -1,0 +1,3 @@
+La resistencia eléctrica es la oposición al paso de la corriente.
+Se mide en ohmios.
+La resistencia eléctrica depende del material del conductor, su longitud y su sección transversal.

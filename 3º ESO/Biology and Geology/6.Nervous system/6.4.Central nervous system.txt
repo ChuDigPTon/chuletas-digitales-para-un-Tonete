@@ -1,0 +1,59 @@
+The central nervous system is responsible for higher cognitive functions and general sensory integration and coordination.
+It consists of the brain and the spinal cord.
+
+**AT MICROSCOPIC LEVEL**
+It is formed of:
+  -White matter: group of axons covered by the myelin sheath.
+  -Grey matter: group of somas and dendrites.
+
+**DEFENSES**
+It is protected by:
+  -Skull
+  -Spinal column
+  -Meninges: protective layers of connective tissue. There are 3 layers:
+	-Pia mater: inner layer.
+	-Arachnoid mater: middle network of fibres.
+	-Dura mater: outer layer.
+	*The arachnoid and pia mater are surrounded by cerebrospinal fluid, a liquid that cushions the brain and spinal column, protecting from impact.
+
+**BRAIN**
+Formed of:
+
+*Cerebrum*
+It has 2 hemispheres, separated by a longitudinal fissure. They are connected by the corpus collosum (White matter).
+
+*Cerebral cortex*
+Grey matter that surrounds the cerebrum. 
+Its functions are: mental and intellectual, voluntary movement, receiving and interpretating sensory information and regulating the nervous system.
+
+*Limbic system*
+Formed of glands. They regulate the endocrine system and are responsible for emotions, feelings and basic insticts. It is formed of:
+  -Hypothalamus: connected to the pituitary gland
+  -Epithalamus: contains the pineal gland/epiphysis cerebri
+  -Thalamus
+
+*Cerebellum*
+Located at the back of the brain. It is responsible for motor coordination and balance. It if formed of:
+  -Cerebellar cortex: grey matter outside.
+  -Arbor vitae: branched white matter inside.
+
+*Brain stem*
+Located at the base of the brain. It regulates the autonomic functions that keeps us alive. The white matter is outside and the grey matter is in the inside.
+
+
+**SPINAL CORD**
+Formed of vertebrae.
+
+*Functions*
+-Conduit: it connects the brain with the sense and effector organs.
+-Reflex: involuntary movements in dangerous situations.
+
+*Parts*
+-Central canal: full of cerebrospinal fluid.
+-Grey matter: inside
+-White matter: outside
+-Sensory/dorsal root: nerve that transmit sensory information.
+-Dorsal/posterior horns: thin, star-shaped that connect to the sensory root.
+-Spinal ganglion: cluster of somas in the sensory branch.
+-Motor/ventral root: nerve that transmits motor information.
+-Ventral/anterior horns: thick sections connected to the motor root.

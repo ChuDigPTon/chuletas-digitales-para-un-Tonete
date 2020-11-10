@@ -1,0 +1,15 @@
+Una fuerza es toda causa capaz de deformar un cuerpo o cambiar su estado de movimiento o reposo.
+Hay 2 tipos:
+  -De contacto: requieren contacto físico.
+  -A distancia: pueden ser:
+    -Gravitatorias: entre cuerpos que tienen masa
+    -Magnéticas: entre imanes o un imán y hierro.
+    -Eléctricas: entre cargas eléctricas.
+
+Es una magnitud vectorial que se representa mediante un vector, es necesario indicar sus características:
+  -Punto de aplicación: donde se ejerce la fuerza.
+  -Dirección: recta sobre la que actúa la fuerza.
+  -Sentido: orientación de la recta.
+  -Módulo: cantidad de fuerza aplicada.
+
+En el SI, la fuerza se mide en newtons (N).

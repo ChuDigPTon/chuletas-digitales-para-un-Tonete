@@ -1,0 +1,23 @@
+**Conditionals**
+
+*Zero*
+Form: If+present simple, present simple
+Use: situations that are genrally true
+
+*First*
+Form: If+present simple, will+infinitive
+Use: posible situations in the future
+
+*Second*
+Form: If+past simple, would+infinitive
+Use: improbable siuations
+
+*Third*
+Form: If+past perfect, would+have+past participle
+Use: improbable situations in the past
+
+
+**Unless, as long as, provided/providing (that), in case**
+Unless=if...not, except if
+As long as, provided/providing (that)=if, only if
+In case=because maybe

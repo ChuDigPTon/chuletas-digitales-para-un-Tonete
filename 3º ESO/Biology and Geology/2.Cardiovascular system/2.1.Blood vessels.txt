@@ -1,0 +1,14 @@
+There are 3 types of blood vessels:
+
+*Artery*
+It carries blood from the heart to the rest of the body.
+It has thick walls with a strong muscle layer.
+It branches into arterioles.
+
+*Vein*
+It carries blood from the rest of the body to the heart.
+It has thinner and less elastic wallls.
+It branches into venules.
+
+*Capillary*
+Microscopic vessel formed of a single layer of epithelial cells calles endothelium that forms a network andconnects arterioles and venules and

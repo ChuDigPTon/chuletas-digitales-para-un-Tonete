@@ -1,0 +1,9 @@
+Es el movimiento de partículas cargadas por un medio material. Ese medio puede ser:
+-Gases: conducen cuando están ionizados, que se consigue cuando hay una chispa o una descarga.
+-Líquidos: conducen cuando tienen una sustancia que cede iones.
+-Sólidos: conducen los metales y algunos no metales.
+
+Hay 3 tipos de materiales:
+-Conductores: permiten el movimiento de los electrones. Tienen electrones libre que se puedan desplazar a lo largo del conductor.
+-Semiconductores: permiten el movimiento de los elecctrones en determinadas condiciones. No conducen a altas temperaturas.
+-Aislantes o dieléctricos: no permiten el movimiento de los electrones (están fijos en los átomos).

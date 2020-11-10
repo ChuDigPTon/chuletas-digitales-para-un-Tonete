@@ -1,0 +1,4 @@
+La carga (q) es la cantidad de electrones que recorren al mismo tiempo.
+La intensidad de corriente (I) es la carga que hay en un segmento del conductor en una cantidad de tiempo.
+Se mide en amperios (A). Un amperio es igual a un culombio por segundo.
+La intensidad de corriente de un circuito se mide con un amperímetro.

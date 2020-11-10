@@ -1,0 +1,5 @@
+Se colocaba un elemento radioactivo dentro de una caja de plomo con un agujero (para controlar la mayoría de partículas alfa).
+El haz de partículas alfa (cargadas positivamente) atravesaban una finísmia lámina de oro con una pantalla sensible a las partículas alfa alrededor.
+Según el modelo de Thomson, todas las partículas alfa atravesarían la lámina, pues la carga positiva del átomo estaba distribuida uniformemente por la esfera, por lo que la carga debería ser lo suficientemente débil como para que las partículas alfa (muy energéticas) lo atraviesen.
+Para sorpresa de Rutherford, unas pocas partículas se desviaban, y unas cuantas incluso rebotaban.
+Otros experimentos le llevaron a descubrir el protón, partícula ubicada en el núcleo y cargada positivamente.

@@ -1,0 +1,23 @@
+*CUERPOS*
+
+Según cómo actúan los cuerpos ante una fuerza, estos pueden ser:
+  -Rígidos: no se deforman.
+  -Elásticos: se deforman pero recuperan su forma inicial.
+  -Plásticos: se deforman permanentemente.
+
+El límite de elasticidad es la fuerza mínima que se tiene que hacer sobre un cuerpo elástico para deformarlo permanentemente.
+El límite de rotura es la fuerza mínima que se tiene que ejercer sobre un cuerpo para romperlo.
+
+*LEY DE HOOKE*
+
+Relaciona los alargamientos de un muelle con la fuerza que se ejerce sobre ellos. Es directamente proporcional.
+
+F = kx
+
+*SEGUNDA LEY DE NEWTON*
+
+Establece que la aceleración que adquiere un cuerpo es proprocional a la fuerza aplicada sobre él, siendo la masa la constante de proporcionalidad.
+
+F = ma
+
+1 N = 1 kg * m/ s * s

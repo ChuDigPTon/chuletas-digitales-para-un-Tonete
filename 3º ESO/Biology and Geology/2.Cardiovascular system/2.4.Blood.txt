@@ -1,0 +1,21 @@
+Blood is formed of:
+
+*Plasma (55%)*
+Yellowish fluid formed mainly of water that contains all blood components.
+It is composed of blood serum and fibrinogen (protein involved in blood clotting).
+
+*Red blood cells (45%)*
+Also called erythrocytes. They are flat, round cells that do not have a nucleus.
+They contain haemoglobin, a protein that contains iron and transports oxygen. It gives the blood its color.
+
+*White blood cells (<1%)*
+Also called leukocytes. They have a defensive function. There are 2 types:
+-Granulocytes: they have granules in their cytoplasm and lobes in their nucleus.
+-Agranulocytes: they have not granules in their cytoplasm or lobes in their nucleus. The lymphocytes produce antibodies while the monocytes defend the bosy by phagocytosing.
+
+*Platelets (<1%)*
+Fragments of cells (they are not cells) produced in the bone marrow.
+They are essential in blood clotting.
+
+*Other*
+Nutrients, hormones, ions, and metabolic waste.

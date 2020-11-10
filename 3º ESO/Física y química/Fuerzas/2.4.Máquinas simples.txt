@@ -1,0 +1,30 @@
+Son dispositivos que generan fuerzas mayores que la fuerza muscular. Hay 2 fuerzas:
+-Fuerza motor (Fm): fuerza que se suministra a la máquina.
+-Fuerza resistente (Fr): fuerza que se quiere vencer.
+-La ventaja mecánica o factor multiplicador es el cociente entre ambas fuerzas (Vm=Fr/Fm)
+
+*Palanca*
+Barra rígida que gira sobre un torno.
+La distancia entre la fuerza y el torno se denomina brazo. Hay dos:
+-Brazo motor (Im)
+-Brazo resistente (Ir)
+La ley de la palanca es:
+	Fm * Im = Fr * Ir
+Hay 3 tipos de palanca: de primer, segundo y tercer género.
+
+*Polea*
+Rueda con una cuerda en su canal.
+Hay poleas fijas y móviles (eje fijo e inmóvil).
+Una polea simple es una palanca de primer género con brazos iguales al radio de la polea.
+	Fm = Fr
+En un polipasto (conjunto de poleas fijas y móviles), el brazo motor es el diámetro de la polea, y el resistente es el radio partido del número de poleas móviles.
+	Fm = Fr/2n
+
+*Torno*
+Cilindro que atraviesa un eje, enrollado por una cuerda que cuelga un peso.
+Es una palanca en la que el brazo motor es la longitud del manubrio y el brazo resistente es el radio del cilindro.
+	Fm * Im = Fr * rc
+
+*Plano inclinado*
+Superficie plana que forma un ángulo agudo. La fuerza motor levanta un peso por él.
+	Fm * I = P * h

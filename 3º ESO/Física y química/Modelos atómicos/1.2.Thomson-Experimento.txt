@@ -1,0 +1,5 @@
+**El descubrimiento del electrón**
+El experimento de Thomson consistía en un tubo de descarga con dos placas cargadas (el cátodo negativamente y ánodo positivamente) y con vacío.
+Tomson observó que se formaba una luz fluorescente al fondo del tubo. Esto le hizo llegar a la conclusión de que habían unos rayos que procedían del cátodo (los rayos catódicos).
+Estos rayos estaban formados por unas partículas de carga negativa que pasaron a llamarse electrones.
+También observó que colocando otras 2 placas cargadas, los rayos se desviaban a la placa positiva, por lo que confirmó que los electrones estaban cargados negativamente.

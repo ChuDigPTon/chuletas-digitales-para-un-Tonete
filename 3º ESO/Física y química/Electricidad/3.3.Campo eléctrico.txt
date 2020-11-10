@@ -1,0 +1,4 @@
+Un campo eléctrico es una región en la que una carga eléctrica está sometida por la fuerza de otra carga (atracción o repulsión).
+Se representa mediante líneas de campo, trayectorias que sigue una carga positiva (carga de prueba).
+La carga de prueba tiende a alejarse de la carga positiva a la que está sometida y a acercarse a la negativa.
+Cuando no está sometida por ninguna carga, se dice que está en el infinito.

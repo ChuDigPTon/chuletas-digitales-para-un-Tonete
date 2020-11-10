@@ -1,0 +1,17 @@
+There are 2 types:
+
+**NEURONS**
+Highly specialised cells that cannot divide. They transmit nerve impulses. Each neuron consists of:
+-Soma: the cell's life support center. It contains the nucleus and most of the cytoplasm.
+-Dendrites: short branched projections that receive nerve impulses.
+-Axon: long branched projection that transmits nerve impulses. There is usually one. It is also called nerve fibre.
+
+
+**NEUROGLIA**
+They are located between neurons. They protect, nourish and support neurons. The main types are:
+
+-Astrocytes: star-shaped cell that connects neurons with capillaries. They are support cells that control the chemical environment around neurons, give them nutrients, and remove neurotransmitters.
+-Oligodendrocytes: cells that wrap around axons in the central nervous system.
+-Schwann cells: cells that wrap around axons in the peripheral nervous system.
+
+Oligodendrocytes and schwann cells form the myelin sheath, an insulating layer whose function is the fast and efficient transmission of nerve impulses.

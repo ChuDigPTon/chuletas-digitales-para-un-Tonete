@@ -1,0 +1,7 @@
+*PILAS*
+-En serie: el voltaje total es igual a la suma de todos los voltajes.
+-En paralelo: el voltaje es el mismo de cada pila, pero tiene mayor duración.
+
+*RESISTENCIAS*
+-En serie: la resistencia total es igual a la suma de todas las resistencias.
+-En paralelo: la inversa total es igual a la suma de todas las inversas.

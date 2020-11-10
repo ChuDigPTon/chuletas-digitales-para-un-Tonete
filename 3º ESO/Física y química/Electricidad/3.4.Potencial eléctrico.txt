@@ -1,0 +1,2 @@
+El potencial eléctrico es el trabajo necesario para transportar la craga de prueba entre 2 puntos. Cuanto más cerca, más trabajo es necesario.
+V1,2 = V2 - V1

@@ -1,0 +1,9 @@
+*ABO system*
+4 types: A, B, AB and O.
+Types depend on the antigen on the red blood cell (A, B).
+If the blood lacks of an antigen, it has antibodies that fight against those (anti-A, anti-B)
+
+*Rhesus factor*
+2 types: positive or negative.
+Types depends on the antigen on the red blood cell (Rh).
+If the blood lacks of the antigen Rh, it has antibodies that fight against it (anti-Rh).

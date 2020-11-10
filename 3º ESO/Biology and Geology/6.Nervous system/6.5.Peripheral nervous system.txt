@@ -1,0 +1,26 @@
+**NERVES**
+The peripheral nervous system is formed of nerves and nerve ganglia.
+-Nerve: group of axons with their myelin sheath and covered of connective tissue. There are several types:
+  -According to location:
+	-Cranial nerves: emerge in pairs from the brain.
+	-Spinal nerves: emerge in pairs from the spinal cord
+  -According to the information transmitted:
+	-Sensory: transmit sensort information.
+	-Motor: transmit motor information.
+	-Mixed: transmit both types of information.
+
+-Nerve ganglion: cluster of somas distributed thoughout the nerves.
+
+
+**PARTS**
+
+*Somatic*
+Formed of nerves that connect the nerve centres with sensory and motor nerves.
+It controls voluntary acts and reflexes.
+
+*Autonomic*
+Formed of nerves in the smooth muscle in the gut, cardiac muscle, blood vessels and glands.
+It regulates the autonomic functions that keep us alive.
+It is formed of:
+	-Parasympathetic nervous system: associated with situations of rest and calm. It is usually active at night. It decreases energy expediture
+	-Sympathetic nervous system: associated with emergency situations (fight-or-flight). It increases energy expediture.

@@ -1,0 +1,3 @@
+La ley de Ohm afirma que la diferencia de potencial es directamente proporcional a la intensidad de corriente. El cociente entre ambos es la resistencia eléctrica, la constante.
+
+V = R * I

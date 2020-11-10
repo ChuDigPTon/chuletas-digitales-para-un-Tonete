@@ -1,0 +1,7 @@
+Para formular su modelo, Bohr utilizó el átomo de hidrógeno y se basó en la teoría cuántica de Max Planck y en los espectros de luz emitidos por el átomo.
+El modelo de Bohr se basa principalmente en los movimientos de los electrones alrededore del núcleo.
+
+Los electrones giran a gran velocidad en órbitas circulares alrededor del núcleo. Sólo pueden girar en órbitas permitidas y específicas, esto fue formulado al observar que sólo habían unas pocas líneas en los espectros, siendo el resto negro.
+Las órbitas tienen une energía específica, los electrones que giran en esa órbita poseen dicha energía. Cuanto más lejos esté la órbita del núcleo, más energía posee.
+Cuando el electrón tiene suficiente energía, puede pasar a una órbita superior. Y cuando deja de recibirla, vuelve a la órbita anterior y emite la energía sobrante en forma de luz.
+Las cantidades de energía que se emiten o reciben son cantidades dicretas, y sólo toman lo que necesitan para pasar a una órbita superior. Estas cantidades se llaman cuantos, un cuanto de luz es equivalente a un fotón.

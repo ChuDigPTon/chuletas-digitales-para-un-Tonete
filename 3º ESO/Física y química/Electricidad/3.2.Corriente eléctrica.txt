@@ -1,0 +1,3 @@
+Es el desplazamiento neto de los electrones dentro un conductor. Hay 2 tipos:
+-Corriente continua: tienen un flujo continuo de cargas. Los electrones se mueven en una sola dirección.
+-Corriente alterna: tienen un flujo variable de cargas. Los electrones alternan la dirección en la que se mueven.

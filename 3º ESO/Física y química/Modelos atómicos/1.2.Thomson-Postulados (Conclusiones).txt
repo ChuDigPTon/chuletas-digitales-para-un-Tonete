@@ -1,0 +1,4 @@
+El átomo es divisible: esto justificó la existencia de los electrones, siendo el resto del átomo positivo.
+La estructura del átomo consiste en una esfera uniforme (maciza) positiva con unos electrones incrustados (tantos como sea necesario para compensar las cargas, de modo que el átomo sea neutro). Esto es la razón por lo que su modelo se denominó "Modelo pudin de pasas"
+Los electrones están en reposo.
+La mayor parte de la masa corresponde a la esfera (la masa de los electrones es mínima)
