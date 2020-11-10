@@ -1,86 +1,86 @@
-RES⁄MENES DE 3∫ ESO (versiÛn 2.0)
+RES√öMENES DE 3¬∫ ESO (versi√≥n 2.5.0)
 
-Res˙menes redactados por Jin Hong Xing
+Res√∫menes redactados por Jin Hong Xing
 Registro redactado por Jin Hong Xing 
 
 
-***FÕSICA Y QUÕMICA***
-1. Modelo atÛmicos
-  1.1.RedacciÛn inicial (Dalton) - 10-2-2020
-  1.2.RedacciÛn inicial (Thomson) - 11-2-2020
-  1.3.RedacciÛn inicial (Rutherford)- 11-2-2020
-  1.4.RedacciÛn inicial (Bohr) - 12-2-2020
+***F√çSICA Y QU√çMICA***
+1. Modelo at√≥micos
+  1.1.Redacci√≥n inicial (Dalton) - 10-2-2020
+  1.2.Redacci√≥n inicial (Thomson) - 11-2-2020
+  1.3.Redacci√≥n inicial (Rutherford)- 11-2-2020
+  1.4.Redacci√≥n inicial (Bohr) - 12-2-2020
 2. Fuerzas
-  2.1.RedacciÛn inicial (Concepto de fuerza) - 11-4-2020
-  2.2.RedacciÛn inicial (Deformaciones) - 11-4-2020
-  2.3.RedacciÛn inicial (Movimiento) - 12-4-2020
-  2.4.RedacciÛn inicial (M·quinas simples) - 13-4-2020
+  2.1.Redacci√≥n inicial (Concepto de fuerza) - 11-4-2020
+  2.2.Redacci√≥n inicial (Deformaciones) - 11-4-2020
+  2.3.Redacci√≥n inicial (Movimiento) - 12-4-2020
+  2.4.Redacci√≥n inicial (M√°quinas simples) - 13-4-2020
 3. Electricidad
-  3.1.RedacciÛn inicial (ConducciÛn elÈctrica) - 14-4-2020
-  3.2.RedacciÛn inicial (Corriente elÈctrica) - 14-4-2020
-  3.3.RedacciÛn inicial (Campo elÈctrico) - 14-4-2020
-  3.4.RedacciÛn inicial (Potencial elÈctrico) - 14-4-2020
-  3.5.RedacciÛn inicial (Intensidad de corriente) - 4-5-2020
-  3.6.RedacciÛn inicial (Resistencia elÈctrica) - 4-5-2020
-  3.7.RedacciÛn inicial (Ley de Ohm) - 4-5-2020
-  3.8.RedacciÛn inicial (Circuitos elÈctricos) - 4-5-2020
-  3.9.RedacciÛn inicial (Asociaciones) - 4-5-2020
+  3.1.Redacci√≥n inicial (Conducci√≥n el√©ctrica) - 14-4-2020
+  3.2.Redacci√≥n inicial (Corriente el√©ctrica) - 14-4-2020
+  3.3.Redacci√≥n inicial (Campo el√©ctrico) - 14-4-2020
+  3.4.Redacci√≥n inicial (Potencial el√©ctrico) - 14-4-2020
+  3.5.Redacci√≥n inicial (Intensidad de corriente) - 4-5-2020
+  3.6.Redacci√≥n inicial (Resistencia el√©ctrica) - 4-5-2020
+  3.7.Redacci√≥n inicial (Ley de Ohm) - 4-5-2020
+  3.8.Redacci√≥n inicial (Circuitos el√©ctricos) - 4-5-2020
+  3.9.Redacci√≥n inicial (Asociaciones) - 4-5-2020
 
 
 ***BIOLOGY AND GEOLOGY***
 1. Introduction of the circulatory system.
-  1.1.RedacciÛn inicial - 14-2-2020
+  1.1.Redacci√≥n inicial - 14-2-2020
 2. Cardiovascular system.
-  2.1.RedacciÛn inicial (Blood vessels) - 14-2-2020
-  2.2.RedacciÛn inicial (Heart) - 15-2-2020
-  2.3.RedacciÛn inicial (Blood circulation) - 15-2-2020
-  2.4.RedacciÛn inicial (Blood) - 14-2-2020
-  2.5.RedacciÛn inicial (Blood types) - 14-2-2020
+  2.1.Redacci√≥n inicial (Blood vessels) - 14-2-2020
+  2.2.Redacci√≥n inicial (Heart) - 15-2-2020
+  2.3.Redacci√≥n inicial (Blood circulation) - 15-2-2020
+  2.4.Redacci√≥n inicial (Blood) - 14-2-2020
+  2.5.Redacci√≥n inicial (Blood types) - 14-2-2020
 3. Lymphatic system.
-  3.1.RedacciÛn inicial (Lymphatic parts)- 16-2-2020
-  3.2.RedacciÛn inicial (Functions of the lymphatic system) - 16-2-2020
+  3.1.Redacci√≥n inicial (Lymphatic parts)- 16-2-2020
+  3.2.Redacci√≥n inicial (Functions of the lymphatic system) - 16-2-2020
 4. Excretory system.
-  4.1.RedacciÛn inicial (Introduction of the excretory system) - 16-2-2020
-  4.2.RedacciÛn inicial (Parts of the urinary system) - 16-2-2020
-  4.3.RedacciÛn inicial (Urine formation) - 16-2-2020
-  4.4.RedacciÛn inicial (Other excretory organs) - 16-2-2020
+  4.1.Redacci√≥n inicial (Introduction of the excretory system) - 16-2-2020
+  4.2.Redacci√≥n inicial (Parts of the urinary system) - 16-2-2020
+  4.3.Redacci√≥n inicial (Urine formation) - 16-2-2020
+  4.4.Redacci√≥n inicial (Other excretory organs) - 16-2-2020
 5. Reproductive system
-  5.1.RedacciÛn inicial (Male reproductive system) - 9-4-2020
-  5.2.RedacciÛn inicial (Female reproductive system) - 11-4-2020
-  5.3.RedacciÛn inicial (Menstrual cycle) - 12-4-2020
-  5.4.RedacciÛn inicial (Fertilisation, pregnancy and birth) - 13-4-2020
+  5.1.Redacci√≥n inicial (Male reproductive system) - 9-4-2020
+  5.2.Redacci√≥n inicial (Female reproductive system) - 11-4-2020
+  5.3.Redacci√≥n inicial (Menstrual cycle) - 12-4-2020
+  5.4.Redacci√≥n inicial (Fertilisation, pregnancy and birth) - 13-4-2020
 6. Nervous system
-  6.1.RedacciÛn inicial (Interaction) - 27-04
-  6.2.RedacciÛn inicial (Nerve cells) - 27-04
-  6.3.RedacciÛn inicial (Synapses) - 27-04
-  6.4.RedacciÛn inicial (Central nervous system) - 28-04
-  6.5.RedacciÛn inicial (Peripheral nervous system) - 29-04
+  6.1.Redacci√≥n inicial (Interaction) - 27-04
+  6.2.Redacci√≥n inicial (Nerve cells) - 27-04
+  6.3.Redacci√≥n inicial (Synapses) - 27-04
+  6.4.Redacci√≥n inicial (Central nervous system) - 28-04
+  6.5.Redacci√≥n inicial (Peripheral nervous system) - 29-04
 7. Endocrine system
-  7.1.RedacciÛn inicial (Endocrine system introduction) - 12-5-2020
-  7.2.RedacciÛn inicial (Endocrine glands) - 13-5-2020
+  7.1.Redacci√≥n inicial (Endocrine system introduction) - 12-5-2020
+  7.2.Redacci√≥n inicial (Endocrine glands) - 13-5-2020
 
 ***LENGUA CASTELLANA Y LITERATURA***
-1. PoesÌa en el siglo XVI.
-  1.1.RedacciÛn inicial (PoesÌa en la primera mitad del siglo XVI) - 18-2-2020
-  1.2.RedacciÛn inicial (PoesÌa en la segunda mitad del siglo XVI) - 18-2-2020
+1. Poes√≠a en el siglo XVI.
+  1.1.Redacci√≥n inicial (Poes√≠a en la primera mitad del siglo XVI) - 18-2-2020
+  1.2.Redacci√≥n inicial (Poes√≠a en la segunda mitad del siglo XVI) - 18-2-2020
 2. La picaresca.
-  2.1.RedacciÛn inicial - 18-2-2020
+  2.1.Redacci√≥n inicial - 18-2-2020
 3. El barroco.
-  3.1.RedacciÛn inicial (Contexto histÛrico) - 5-5-2020
-  3.2.RedacciÛn inicial (Miguel de Cervantes) - 5-5-2020
-  3.3.RedacciÛn inicial (El Quijote) - 5-5-2020
-  3.4.RedacciÛn inicial (La picaresca del siglo XVII) - 6-5-2020
-  3.5.RedacciÛn inicial (IntroducciÛn a la poesÌa del siglo XVII) - 7-5-2020
-  3.6.RedacciÛn inicial (Conceptismo) - 8-5-2020
-  3.7.RedacciÛn inicial (Culteranismo) - 28-5-2020
-  3.8.RedacciÛn inicial (Lope de Vega) -  28-5-2020
+  3.1.Redacci√≥n inicial (Contexto hist√≥rico) - 5-5-2020
+  3.2.Redacci√≥n inicial (Miguel de Cervantes) - 5-5-2020
+  3.3.Redacci√≥n inicial (El Quijote) - 5-5-2020
+  3.4.Redacci√≥n inicial (La picaresca del siglo XVII) - 6-5-2020
+  3.5.Redacci√≥n inicial (Introducci√≥n a la poes√≠a del siglo XVII) - 7-5-2020
+  3.6.Redacci√≥n inicial (Conceptismo) - 8-5-2020
+  3.7.Redacci√≥n inicial (Culteranismo) - 28-5-2020
+  3.8.Redacci√≥n inicial (Lope de Vega) -  28-5-2020
 
 ***ENGLISH***
 //Abandonado.
 
 1. UNIT 5.
-  1.1.RedacciÛn inicial - 17-2-2020
+  1.1.Redacci√≥n inicial - 17-2-2020
 2. UNIT 6.
-  2.1.RedacciÛn inicial - 17-2-2020
+  2.1.Redacci√≥n inicial - 17-2-2020
 3. UNIT 7.
-  3.1.RedacciÛn inicial (Writing) - 17-2-2020
+  3.1.Redacci√≥n inicial (Writing) - 17-2-2020
