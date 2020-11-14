@@ -1,0 +1,12 @@
+A nivel fonológico: fonemas
+A nivel morfológico: morfemas, palabras
+A nivel sintáctico, palabras, sintagmas, oraciones
+
+*Lexema*
+Aporta el significado a la palabra. No varía
+
+*Morfema*
+Morfemas flexivos: aportan información gramatical (género, número, persona, grado, tiempo, aspecto, modo)
+Morfemas derivativos: aportan significado adicional y cambian la ctaegoría gramatical.
+--Sufijos
+--Prefijos
