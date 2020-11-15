@@ -1,0 +1,134 @@
+**Types**
+Plant: they have a single, big vacuole, chloroplasts, a cell wall and no centrosomes.
+Animal: they have several small vacuoles, centrosomes and no cell wall nor chloroplasts.
+
+**Parts**
+
+*Cytoplasm*
+Gel-like substance that fills the cell.
+
+*Cell membrane*
+Structure:
+--Double layer of lipids.
+--Proteins attached or immersed in the double layer.
+--Cholesterol that fills the sapce and controls fuidity, making it rigid.
+Function:
+--Protection.
+--Regulate the exchange of substances between the utside and the inside:
+----Small molecules:
+------Diffusion: a process by which a big concentration of matter moves into a small concentration.
+------Osmosis: only for water. Similar to diffusion, but the movement depends on the concentration of solute.
+------Permeases: bigger substances pass through transporter proteins.
+----Big molecules:
+------Endocytosis: an invagination is formed, resulting in a vesicle.
+------Exocytosis: inversed form of endocytosis.
+
+*Cell wall*
+Composed mainly of cellulose, but also polysaccharides and proteins.
+Only in plant cells.
+It protects the cell and gives it shape.
+It can contain lignin, which gives it resistance and rigidity.
+
+*Cytoskeleton*
+Types:
+--Microfilaments: made up of actin. They are easy to build and break. They are mainly near the plasma membrane to give shape and form pseudopods. 
+--Intermediate filaments: made up of protein. They are easy to build but hard to break. They give strength and resistance.
+--Microtubules: made up of tubulin. They are tubular and rigid. They allow the movement of organelles and other substances across the cell.
+
+Centrioles:
+--Formed of 9 triplets of microtubules.
+--They help form cilia and flagella, by providing support and movement.
+--2 centrioles form a centrosome in animal cells. They are involved in cell division and control all microtubules. They are near the nucleus.
+
+*Ribososomes*
+They are formed of 2 subunits (large and small),
+They produce proteins.
+They can be located in several places:
+--Free in the cytoplasm.
+--Attached to the RER or the nuclear membrane.
+--Inside other organelles (mitochondria and chlorosplasts).
+
+*Endoplasmic reticulum*
+Rough endoplasmic reticulum (RER):
+--Next to the nucleus.
+--Synthesize proteins.
+--Sac-form network.
+--With ribosomes (hence the name).
+Smooth endoplasmic reticulum (SER):
+--Farther form the nucleus.
+--Synthesize lipids.
+--Tube-like network.
+--Without ribosomes.
+
+*Golgi apparatus*
+Stack of disk-shaped sacs.
+Produces polysaccharides.
+Sorting and madurating of substances (proteins & lipids).
+The rsulting vesicles are distributed to their different destinations.
+Parts:
+--Trans face: faces to the membrane. Vesicles are produced here.
+--Cis face: faces to the nucleus. Molecules arrive here.
+
+*Lysosomes*
+Specialized vesicles that contain acidic enzymes.
+They digest and dissolve bacteria (phagocytosis), damaged organelles or its own waste.
+Their membrane have transporter proteins so the digested product can be released.
+
+*Peroxisomes*
+They perform oxidation reactions needed for the proper elimination of toxic substances.
+For that, they use hydrogen peroxisome (oxigenated water).
+
+*Vacuole*
+Responsible of storage of water, lipids, carbohydrates and other molecules.
+In plant cells, they can release or absorb water to increase or decrease pressure on the cell wall (turgidity).
+
+*Cell metabolism*
+Set of chemical reactions needed for the cell to survive, develop and reproduce.
+2 types:
+--Anabolism: bigger structures are formed from smaller structures, requiring energy.
+--Catabolism: bigger structures are broken down to simpler ones, releasing energy.
+
+*Mitochondria*
+Has a double membrane:
+--There is an intermembrane space.
+--The inside membrane has folds called crests.
+Inside:
+--Matrix: similar to cytoplasm.
+--Ribosomes: similar to the ones in prokaryotic cells.
+--1 or more circular molecules of DNA.
+Cellular respiration:
+Catabolism that provide energy to the cell
+C6H12O6 + 6 O2 ==> 6 CO2 + 6 H2O + energy
+
+*Chloroplasts*
+Only in plant cells.
+Has a double membrane.
+Inside:
+--1 or more circular molecules of DNA
+--Ribosomes: similar to the ones in prokaryotic cells.
+--Stroma: similar to cytoplasm.
+--Thylakoids: interconnected flattened sacs.
+----Contain chlorophyll, which gives it a green color and it is needed for photosynthesis
+----Stack to form grana.
+Photosynthesis:
+Anabolism that uses solar light to convert inorganic into organic material.
+6 H20 + 6 CO2 + solar light= 6 O2 + C6H12O6
+
+*Nucleus*
+Double membrane:
+--Ribosomes are attached to the outer membrane.
+--There are a series of pores that regulate the exchange of substances.
+--The nuclear lamina is a protein structure at the inner face of the membrane. DNA molecules are attached to it.
+Inside:
+--Nucleoplasm: internal contents of the nucleus. It contains most of the chromatin.
+--Chromatin: cluster of DNA and proteins (mainly histones).
+----Euchromatin: lighter area.
+----Heterochromatin: denser, inactive in expression of genetic material.
+--Nucleoli: condensed subdomain where ribosome subunits are formed.
+The shape of the nucleus is varied
+--Animals: usually spherical at the middle.
+--Plants: usually ovoid and displaced by the vacuole.
+
+*DNA and RNA*
+The DNA is always located at the nucleus and contains the original genretic information. All cells get their DNA from their mother cell or another cell.
+The RNA is produced from the DNA and it is very similar. The RNA molecules are sent across the cell and the hereditary information is read and executed by the cell components.
