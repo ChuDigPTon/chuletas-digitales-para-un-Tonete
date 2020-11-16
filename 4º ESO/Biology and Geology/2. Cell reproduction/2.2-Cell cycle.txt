@@ -1,0 +1,36 @@
+The cell cycle is the series of events that undergoes in a cell from its formation until its division.
+Cell division is needed in reproduction, growth and development.
+
+**Cell cycle in eukaryotic cells**
+
+*M phase*
+The cell divides:
+--Mitosis/meiosis: division of the nucleus.
+--Cytokinesis: division of the cytoplasm.
+The nucleus changes in this phase:
+--Nucleoli and nuclear membrane disappear.
+--Nuclear contents are released into the cytoplasm
+--The chromatin condenses itself to form the chromosomes:
+----DNA Packaging:
+------The chromatin fibres line up, facilitating their subsequent separation.
+------The DNA becomes more resitant to breakage
+----Process:
+------1) Interphase: chromatin lightly packed and duplicating
+------2) Before nuclear division: the chromatin condenses into chromosomes.
+------3) During nuclear division: the chromatin is condensed into chromosomes, which are rod-shaped bodies visible under an optical microscope.
+
+*G1 phase*
+The new cell develops and grows in size.
+It synthesizes proteins and cell components.
+It checks wether the conditions are suitable to move to the next phase.
+
+*G0 phase*
+In case the conditions are not suitable, the cell is stuck in the G1 phase, which is now called G0 phase.
+Some cells , such as neurons, remain in this phase permanently. They change their shape and specialize in a specific function.
+
+*S phase*
+The cell duplicates the genetic material (DNA) so the 2 daughter cell have the same amount.
+
+*G2 phase*
+The cell continues to grow and prepares itself for the cell division.
+Cell components are fully synthesized.
