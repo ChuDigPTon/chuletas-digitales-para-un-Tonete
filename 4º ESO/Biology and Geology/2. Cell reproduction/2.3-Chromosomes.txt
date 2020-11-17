@@ -1,0 +1,32 @@
+Chromosomes are segments of chromatin which are condensed into rod-shaped bodies during cell division.
+
+*Parts*
+Chromatid: half of the chromosome. They are also called sister chromatids because they are identical between each other (duplicated in interphase).
+Arm: part separated by the centrosome. The p arms are the ones that are shorter than the q arms.
+Centrosome: joins the arms.
+Telomeres: ends (furthest from centrosome) of the arms.
+
+*Types*
+Metacentric: centrosome is in the middle. q = p
+Submetacentric: centrosome is slightly off. q > p
+Acrocentric: centrosome close to one end. q > p
+Telocentric: centrosome at one end. p = 0
+
+*Number of chromosomes*
+They are no relations between species.
+Most eukaryotic cells are diploid (2n). This means that each cell has 2 sets of homologous chromosomes. Each set is the haploid number (n), provided by one parent. 
+--Homologous chromosomes: diploid organisms have 2 sets of similar chromosomes, which contain similar information for the same purposes. The slight difference is what makes an individual of a species unique.
+--Somatic cells (2n) are the ones that are not related to reproduction (tissues, blood, organs, etc).
+--Germ cells (2n) are the ones that produce the sex cells, gametes (n).
+
+*Karyotypes*
+Complete set of chromosomes of a species organized and classified according size (from bigger to smaller).
+Human karyotypes have 46 chromosomes (n=23)
+Sex chromosomes or heterochromosomes: pair of chromosomes different from each other. It also different between sexes.
+--Heterogametic male: mammals, insects, some plants. Male has an X and Y chromosomes (X,X) while the female has 2 X chromosomes (X,Y).
+--Homogamteic male: birds, reptiles, amphibians. Male has 2 W chromosomes (W,W) while the female has an W and Z chromosomes (W,Z).
+--Grasshoppers: the male lacks the Y chromosome (X,0).
+Giemsa method: the chromosomes are stained into patterns, which allows scientists to clssify karyotypes.
+--Homologous chromosomes have a similar pattern
+--Darker bands are called G-bands.
+--The pattern of the bands is related to their chemical composition.
