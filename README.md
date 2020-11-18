@@ -14,7 +14,14 @@ Originalmente tenía todo el repositorio guardado localmente, pero era difícil 
   <li>Física y química
   <li>Lengua castellana y literatura
   <li><s>Inglés</s> Abandonado
-  <li><s>Historia y geografía</s> No está incluido porque estas chuletas están pensadas para Antonio (todos sabemos que le da igual esta asignatua). Trabajaré en ello si alguien lo necesita.
+  <li>Historia y geografía <s>No está incluido porque estas chuletas están pensadas para Antonio (todos sabemos que le da igual esta asignatura). Trabajaré en ello si alguien lo necesita.</s> Empezaré a trabajar en esto porque algo me da que alguien lo va a necesitar (De nada, David). Además, para los que les interese, también tengo líneas del tiempo:
+      <ul>
+          <li><a href="https://www.timetoast.com/timelines/2137160">Global 1ª Evaluación, 3º ESO</a>
+          <li><a href="https://www.timetoast.com/timelines/2189482">Global 2ª Evaluación, 3º ESO</a>
+          <li><a href="https://www.timetoast.com/timelines/2363508">Global 1ª Evaluación, 4º ESO</a>
+          <li><a href="https://www.timetoast.com/timelines/2426239">Global 2ª Evaluación, 4º ESO</a>
+          <li><a href="https://www.timetoast.com/timelines/2426240">Global 3ª Evaluación, 4º ESO</a>
+      </ul>
 </ol>
 La razón por la que no incluyo otras asignaturas es porque no me sirve de ninguna utilidad a mí, y en muchos casos, a otras personas.
 <br>De todos modos, eres libre de ofrecerte como contribuidor y hacerte responsable de una asignatura específica
