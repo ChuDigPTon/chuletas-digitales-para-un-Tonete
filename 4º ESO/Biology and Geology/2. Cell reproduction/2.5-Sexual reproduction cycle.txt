@@ -1,0 +1,43 @@
+For sexual reproduction to occur, the gametes have to be haploid. This is because they will fuse into a zygote, forming a diploid cell, which by multiple mitosises will form a new organism.
+So, to mantain the correct number of chromosomes across species, the germ cells have to halve their number of chromosomes.
+
+**Meiosis**
+Meiosis is a special type of division in which haploid cells are created from diploid cells. Consists of 2 consecutive divisions and DNA is duplicated first.
+It starts with a single diploid mother cell and ends with 4 haploid daughter cells, which are different from each other.
+It produces genetic variation, as crossing over randomizes the segments of each chromatid, and homologous chromosomes are also distributed randomly. The number of different gametes that can be produced is 2^n.
+It is important because it prevents a species from duplicating its DNA after each generation.
+
+*Fist meiotic division*
+
+Prophase I: the chromosomes attach to their homologous chromosomes. The mitotic spindle starts to form.
+--The crossing over takes place, where segments of each homologous chromosomes are exchanged, forming recombined chromosomes, which leads to genetic variation.
+Metaphase I: the chromosomes line up at the equator of the cell (there are 2 lines). The mitotic spindle lengthens and starts to pull the chromosomes.
+Anaphase I: each chromosome is separated from its homologous chromosomes to opposite poles of the cell.
+Telophase I: each side has a haploid number of chromosomes, but a diploid number of chromatids (therefore a diploid amount of DNA). In some cases, the nucleus starts to form.
+--The first cytokinesis takes place.
+
+*Second meiotic division*
+
+Prophase II: very short, DNA is not duplicated. The mitotic spindle forms.
+Metaphase II: the chromosomes line up at the equator of the cell. The mitotic spindle starts to pull each sister chromatid.
+Anaphase II: the mitotic spindle drags the chromatids to opposite poles.
+Telophase II: each side has a haploid number of chromosomes and chromatids. The second cytokinesis takes place.
+
+
+**Difference between meiosis and mitosis**
+
+*Similarities*
+They both require the prior duplication of DNA.
+Chromosomes are positioned in a similar way.
+
+*Differences*
+
+Mitosis:
+--The number of chromosomes remains the same.
+--It produces 2 identical daughter cells.
+--It is involved in asexual reproduction, tissue growth and cell reproduction.
+
+Meiosis:
+--The number of chromosomes is halved.
+--It produced 4 different daughter cells.
+--It is involved in the formation of sex cells.
