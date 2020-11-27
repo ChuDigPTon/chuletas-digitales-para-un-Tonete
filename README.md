@@ -13,11 +13,11 @@ Sea como sea voy a distribuirlo todo por aquí, así que no pierdas esta página
 3. Lengua castellana y literatura.
 4. ~~Inglés~~ Abandonado.
 5. Historia y geografía ~~No está incluido porque estas chuletas están pensadas para Antonio (todos sabemos que le da igual esta asignatura). Trabajaré en ello si alguien lo necesita.~~ Empezaré a trabajar en esto porque algo me da que alguien lo va a necesitar (De nada, David). Además, para los que les interese, también tengo líneas del tiempo:
-    - [Global 1ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2137160).
-    - [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
-    - [Global 1ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2363508).
-    - [Global 2ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426239).
-    - [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240).
+    - -[x] [Global 1ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2137160).
+    - -[x] [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
+    - -[x] [Global 1ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2363508).
+    - -[ ] [Global 2ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426239).
+    - -[ ] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240).
 
 La razón por la que no incluyo otras asignaturas es porque no me sirve de ninguna utilidad a mí, y en muchos casos, a otras personas.  
 De todos modos, eres libre de ofrecerte como contribuidor y hacerte responsable de una asignatura específica
