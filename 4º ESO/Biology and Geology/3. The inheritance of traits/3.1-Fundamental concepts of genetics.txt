@@ -1,0 +1,32 @@
+# Allelomorphic genes
+Each allelomorphic gene (or allele) is an hereditary factor present in the genotype of an individual.  
+Each allele represents a trait.  
+In diploid organisms, each allele comes from one parent.
+Types:
+- Dominant allele (A, B, L): it always manifests in the phenotype of an individual.
+- Recessive allele (a, b, l): it only manifests itself when there is a lack of dominant alleles.
+
+# Phenotypic traits
+A trait is a possible variant for a characteristic of the phenotype of an individual.
+
+# Types of individuals according to their genotype
+- Homozygotes or purebreds (AA, BB, ll): they have 2 of the same alleles for the same trait.
+- Heterozygotes or hybrids (Aa, Bb, Ll): they have 2 different alleles for the same trait.
+
+# Genotype and phenotype
+- The genotype is the set of genes in an individual.
+- The phenotype is the set of genes expressed.
+The expression of traits is mainly affected by the genotype, but the relationship of dominance and the environment also affect it.
+
+# Model organisms
+They are used by scientists to study genetics:
+- Pea plant (Pisum sativum)
+    - Used by Mendel
+    - Easy to reproduce. Each individual produces many offsprings.
+    - Plants self-pollinate. Cross pollinating only occurs when the researcher allows it.
+    - Traits are easily distinguishable. There are only 2 alleles for each trait.
+- Fruit fly (Drosophila melanogaster)
+    - Used by Morgan
+    - Reproduces constantly, many offsprings are produced.
+    - Sex is easy to distinguish.
+    - Small number of chromosomes (n=4)
