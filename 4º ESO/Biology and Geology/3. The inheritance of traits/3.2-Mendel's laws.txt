@@ -1,0 +1,32 @@
+# Gregor Mendel
+Austrian monk that studied the inheritance of traits in Pissum sativum in the 19th century.  
+He rejected the blending inheritance, which stated that an offspring's phenotype would be an equal mix of the parents' phenotypes.
+
+# Method used
+1. Mendel obtained 2 purebreds for contrasting traits (yellow and green peas). He made sure that they would be purebreds by self-pollinating them several times.
+2. He crossed the purebreds, known as the parental generation (P x P).
+3. He observed the results of the first filial generation (F1).
+4. He allowed the F1 generation to self-pollinate, and observed the results of the second filial generation (F2).
+5. He repeated the process to obtain a third filial generation (F3).
+6. He interpreted the results, and through mathematical and statistical analysis, he demonstrated the existence of hereditary factors and their relevance in the expression of traits.
+
+# First law: Uniformity of hybrids
+"For 2 pure-breeding individuals for 2 contrasting traits, the offspring will always express the dominant trait"  
+Mendel observed that the F1 generation was homogeneous, i.e, all offsprings had yellow peas (expressed the dominant trait).  
+As the P generation was composed of purebreds (AA, aa), all the gametes were the same after meiosis (either A or a). When the gametes fused, it produced a hybrid zygote (Aa) that expressed the dominant trait (A).
+
+# Second law: Separation of hybrid traits
+"If the F1 generation crossed, the recessive traits hidden will appear in the proportion of 3:1"  
+Mendel self-pollinated the F1 generation, but the results were never homogeneous: for every 3 yellow pea plants, there was 1 green.  
+After meiosis, half the gametes had the dominant allele (A) and half the recessive (a). Random assortment produced 1 AA, 2 Aa and 1 aa, 3 of them expressed the dominant trait.
+
+# Third law: Random assortment of traits
+"All traits are inherited independently of other traits"  
+Mendel studied with more than one trait. The F1 generation resulted in yellow and round peas (A, L, dominant). The F2 generation resulted in 4 phenotypes in a proportion of 9:3:3:1 (yellow round, yellow shrinked, green round, green shrinked respectively).  
+The alleles were present in different chromosomes, therefore, the gametes of the P generation were AL or al (F1 generation had AaLl genotype), and the F1 generation resulted into 4 different gametes (AL, Al, aL, al), 9 different genotypes and 4 different phenotypes.
+
+# Exceptions: Incomplete dominance
+The detailed study of these exceptions reaffirmed the laws and improved understanding of genetics.  
+It occurs when there is a lack of dominance between the alleles, therefore, the phenotypes blend, resulting in an intermediate hybrid. They are easily distinguishable from purebreds.  
+- Four o'clock flower: Red flower purebreds crossed with white flower purebreds produce pink flower purebreds. The F2 generation is composed by a proportion of 1 red, 2 pinks and 1 white.
+- Andalusian chicken: Black feather purebreds crossed with white feather purebreds produce grey feather purebreds. The F2 generation is composed by a proportion of 1 black, 2 greys and 1 white.
