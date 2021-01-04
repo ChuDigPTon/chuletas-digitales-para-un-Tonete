@@ -1,0 +1,21 @@
+# Similarity between chromosomes and genes
+- Individuals have both of them in 2 versions (father and mother).
+- When the gametes are formed, both are separated and distributed randomly.
+- When fertilization occurs, 1 allele combines with another. The same happens with chromosomes.
+
+# Thomas Hunt Morgan
+He performed experiments on the location of genes.
+
+## Gene linkage
+It is a phenomenon that consists on the tendency of alleles on the same chromosome to be inherited together.  
+The genes inherited together are called linkage groups. Their number matches the haploid number.
+
+## Recombinant and crossing over
+Frequently, linkage groups act as if they were not linked.  
+This is because they are combined (recombination).  
+It is related to the crossing over during meiosis, in which fragments of chromosomes (alleles are exchanged).
+
+# Ideas of the theory
+- Genes are found in chromosomes.
+- Genes are ordered in a linear fashion.
+- The recombination of genes is the result of the crossing over during meiosis.
