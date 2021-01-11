@@ -1,38 +1,40 @@
-The Age of Enlightenment brought a series of scientific and technical advances which also boosted each other.
+The Age of Enlightenment brought a series of scientific and technical advances which also boosted each other.  
 This was combined with the changes in philosophy and economy to create a series of big changes in science and technology.
 
-*Scientific revolution*
-Chemistry: Lavoisier.
-Physics: Celsius and Fahrenheit.
-Biology: Linneaus.
-Electricity: Benjamin Franklin and Volta.
+# Scientific revolution
+- Chemistry: Lavoisier.
+- Physics: Celsius and Fahrenheit.
+- Biology: Linneaus.
+- Electricity: Benjamin Franklin and Volta.
 
-*Agricultural revolution*
+# Agricultural revolution
 Thanks to chemical and biological advances from the previous century plus:
---Abandonment of fallow.
---New crops that revitalized the soil and were used as fodder.
---Continuous crop rotation.
---More iron tools and plough horses.
---Manure used as a natural fertilizer.
+- Abandonment of fallow.
+- New crops that revitalized the soil and were used as fodder.
+- Continuous crop rotation.
+- More iron tools and plough horses.
+- Manure used as a natural fertilizer.
 This meant the demographic revolution. It also affected the industrial revolution, as the demand of iron tools increased.
 
-*Demographic revolution*
-Thanks to the agricultural revolution, as now the population could grow (more food was available and the diet was more varied).
+# Demographic revolution
+Thanks to the agricultural revolution, as now the population could grow (more food was available and the diet was more varied).  
 This meant that there was a surplus of young people who flocked into the cities (rural exodus) to work in factories, starting the industrial revolution.
 
-*Industrial revolution*
+# Industrial revolution
 Gradual process by which an agriculture-based economy becomes an industry-based one.
 Thanks to:
---Previous revolutions.
---Advances in technology and metallurgy.
---Invention of the steam engine.
---Wealthy middle class.
---Accumulation of capital.
+- Previous revolutions.
+- Advances in technology and metallurgy.
+- Invention of the steam engine.
+- Wealthy middle class.
+- Accumulation of capital.
+
 Characteristics:
---Appearance of the working class.
---Manual work replaced with workers and machines.
---Use of fossil fuels, mainly coal.
---Increased production of good and the transports for their distribution.
+- Appearance of the working class.
+- Manual work replaced with workers and machines.
+- Use of fossil fuels, mainly coal.
+- Increased production of good and the transports for their distribution.
+
 The industrial revolution led to a separation between countries:
---Industrialized or developed.
---Developing.
+- Industrialized or developed.
+- Developing.

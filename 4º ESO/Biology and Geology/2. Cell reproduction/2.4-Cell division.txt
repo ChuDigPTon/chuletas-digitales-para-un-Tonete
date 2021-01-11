@@ -1,47 +1,47 @@
-***Eukaryotic cells***
+# Eukaryotic cells
 
-**Mitosis**
-It is the division of the nucleus.
+## Mitosis
+It is the division of the nucleus.  
 It is divided into 4 phases:
 
-*Prophase*
-The chromatin condensates into chromosomes (each with 2 sister chromatids).
-The centrosomes are duplicated and located at opposite poles.
+### Prophase
+The chromatin condensates into chromosomes (each with 2 sister chromatids).  
+The centrosomes are duplicated and located at opposite poles.  
 The mitotic spindle starts to form. It is formed of microtubules (protein fibres).
 
-*Metaphase*
-The chromosomes line up at the equator of the cell.
+### Metaphase
+The chromosomes line up at the equator of the cell.  
 The mitotic spindle lengthens and starts to pull the sister chromatids.
 
-*Anaphase*
-The mitotic spindle drags each sister chromatid away at opposite poles.
+### Anaphase
+The mitotic spindle drags each sister chromatid away at opposite poles.  
 The sister chromatids separate and become known as daughter chromatids.
 
-*Telophase*
-The cytokinesis starts to take place.
-Each sister chromatid arrives at one end and the DNA starts to separate back to chromatin.
+### Telophase
+The cytokinesis starts to take place.  
+Each sister chromatid arrives at one end and the DNA starts to separate back to chromatin.  
 The nuclear membrane starts to appear. The centrosomes remain close to the nucleus.
 
 
-**Cytokinesis**
-It is the division of the cytoplasm.
+## Cytokinesis
+It is the division of the cytoplasm.  
 It happens at the same time of telophase.
 
-*Animals*
-The contractile ring (a ring of protein filaments) starts to form around the equator of the cell, underneath the membrane.
-The contrctile ring starts to shrink, pinching the membrane and forming a cleavage furrow.
+### Animals
+The contractile ring (a ring of protein filaments) starts to form around the equator of the cell, underneath the membrane.  
+The contrctile ring starts to shrink, pinching the membrane and forming a cleavage furrow.  
 Eventually, the daughter cells separate, each with their duplicated parts.
 
-*Plants*
-It is different than animals because of the cell wall.
-Vesicles from the Golgi body join with the mitotic spindle at the equator of the cell.
-The membrane of the vesicles make up the cell wall.
+### Plants
+It is different than animals because of the cell wall.  
+Vesicles from the Golgi body join with the mitotic spindle at the equator of the cell.  
+The membrane of the vesicles make up the cell wall.  
 The contents of the vesicles make up the cell membrane.
 
 
-***Prokaryotic cells***
+# Prokaryotic cells
 
-As prokaryotes have only one molecule of DNA, the genetic material does not suffer alterations.
-The cell duplicates the DNA to ensure both daughter cells receive the same amount.
-The attachment sites of the DNA are at opposite poles.
+As prokaryotes have only one molecule of DNA, the genetic material does not suffer alterations.  
+The cell duplicates the DNA to ensure both daughter cells receive the same amount.  
+The attachment sites of the DNA are at opposite poles.  
 The cell membrane and wall shrink, separating the daughter cells.

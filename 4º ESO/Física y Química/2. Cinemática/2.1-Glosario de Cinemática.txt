@@ -1,40 +1,40 @@
-Cinemática: rama de la física que estudia el movimiento sin tener en cuenta las fuerzas que lo provocan.
+Cinemática: rama de la física que estudia el movimiento sin tener en cuenta las fuerzas que lo provocan.  
 Movimiento: cambio de posición a lo largo de un periodo de tiempo.
 
-Sistema de referencia: conjunto de ejes y el origen desde el cual se estudia el movimiento.
-Móvil: cuerpo que se mueve. Es puntual si es pequeño comparado con su trayectoria.
-Trayectoria: conjunto de puntos por los que pasa el móvil. Puede ser rectilíneo o curvilíneo.
-Espacio recorrido (x): distancia medida sobre la trayectoria. Magnitud escalar.
-Posición: punto en el que se encuentra el móvil en cada momento. Magnitud vectorial.
-Desplazamiento: distancia en línea recta entre la posición inicial y final. Magnitud vectorial. Coincide con el espacio recorrido si la trayectoria es recta y no hay cambios de sentido.
+Sistema de referencia: conjunto de ejes y el origen desde el cual se estudia el movimiento.  
+Móvil: cuerpo que se mueve. Es puntual si es pequeño comparado con su trayectoria.  
+Trayectoria: conjunto de puntos por los que pasa el móvil. Puede ser rectilíneo o curvilíneo.  
+Espacio recorrido (x): distancia medida sobre la trayectoria. Magnitud escalar.  
+Posición: punto en el que se encuentra el móvil en cada momento. Magnitud vectorial.  
+Desplazamiento: distancia en línea recta entre la posición inicial y final. Magnitud vectorial. Coincide con el espacio recorrido si la trayectoria es recta y no hay cambios de sentido.  
 Velocidad (v): cambio de posición en un intervalo de tiempo. Magnitud vectorial. (v = x/t)
---Rapidez: espacio recorrido en un intervalo de tiempo. Magnitud escalar. (v = s/t)
-Aceleración (a): incremento de velocidad en un intervalo de tiempo. Magnitud vectorial. (a = v/t)
-Gráfica x-t: indica la posición del móvil en cada momento.
-Gráfica v-t: indica la velocidad del móvil en cada momento.
-Gráfica a-t: indica la aceleración del móvil en cada momento.
+- Rapidez: espacio recorrido en un intervalo de tiempo. Magnitud escalar. (v = s/t)
+Aceleración (a): incremento de velocidad en un intervalo de tiempo. Magnitud vectorial. (a = v/t)  
+Gráfica x-t: indica la posición del móvil en cada momento.  
+Gráfica v-t: indica la velocidad del móvil en cada momento.  
+Gráfica a-t: indica la aceleración del móvil en cada momento.  
 Gráfica x-y: indica la posición del móvil.
 
-Expresión general: expresión que define todo tipo de movimiento.
+Expresión general: expresión que define todo tipo de movimiento.  
 Expresión concreta: expresión basada en la general modificada con los datos obtenidos y que define un movimiento específico.
 
-MRU: tiene una trayectoria recta y una velocidad constante. La aceleración es nula. (Xf = X0+v*t)
+MRU: tiene una trayectoria recta y una velocidad constante. La aceleración es nula. (Xf = X0+v*t)  
 MRUA: tiene una trayectoria recta y una aceleración constante. Velocidad variable en función de la aceleración. (Xf = X0+v0*t+1/2a*t^2) (Vf = V0+a*t)
---Caída libre: MRUA con trayectoria vertical y afectado por la fuerza de la gravedad (g=9,8m/s).
+- Caída libre: MRUA con trayectoria vertical y afectado por la fuerza de la gravedad (g=9,8m/s).
 
-*Movimiento circular*
+# Movimiento circular
 
-Radián (rad): unidad angular. 2π radianes equivale a 360 grados.
-Grado (º): unidad angular.
+Radián (rad): unidad angular. 2π radianes equivale a 360 grados.  
+Grado (º): unidad angular.  
 Revolución/vuelta (rev): unidad angular.
 
-Desplazamiento lineal (s): cuerda de la circunferencia. Magnitud escalar. Se mide en unidades de longitud.
-Desplazamiento angular (O): arco de la circunferencia. Magnitud vectorial. Se mide en unidades angulares. Se relaciona con el desplazamiento lineal con la expresión s = R*O
+Desplazamiento lineal (s): cuerda de la circunferencia. Magnitud escalar. Se mide en unidades de longitud.  
+Desplazamiento angular (O): arco de la circunferencia. Magnitud vectorial. Se mide en unidades angulares. Se relaciona con el desplazamiento lineal con la expresión s = R*O  
 
-Periodo (T): tiempo que tarda un móvil en recorrer una revolución.
+Periodo (T): tiempo que tarda un móvil en recorrer una revolución.  
 Frecuencia (f): número de vueltas que da un móvil en un tiempo determinado. Se puede expresar en hercios (Hz = 1/s = rev/s). Se relaciona con el periodo con la expresión f*T = 1
 
-Velocidad lineal (v): arco recorrido por cada unidad de tiempo. Es igual que en el movimiento rectilíneo. (v = x/t) (v = R*w)
-Velocidad angular (w): ángulo recorrido por cada unidad de tiempo. (w = 0/t)
-Aceleración centrípeda o normal (ac/an): es un vector perpendicular al de la velocidad lineal. Su sentido está dirigido al centro de la circunferencia. (ac = v^2/R)
+Velocidad lineal (v): arco recorrido por cada unidad de tiempo. Es igual que en el movimiento rectilíneo. (v = x/t) (v = R*w)  
+Velocidad angular (w): ángulo recorrido por cada unidad de tiempo. (w = 0/t)  
+Aceleración centrípeda o normal (ac/an): es un vector perpendicular al de la velocidad lineal. Su sentido está dirigido al centro de la circunferencia. (ac = v^2/R)  
 MCU: tiene una trayectoria circular y el módulo de la velocidad es constante. (O = O0+w*t). Tiene una aceleración centrípeda o normal.

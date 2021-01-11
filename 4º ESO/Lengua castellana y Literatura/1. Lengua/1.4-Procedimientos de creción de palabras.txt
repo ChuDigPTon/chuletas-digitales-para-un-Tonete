@@ -1,10 +1,10 @@
-*Léxicos*
-Eponimia: nombre propio en nombre común (lazarillo, pilates, mecenas)
-Extranjerismo: se toma la palabra tal cual (software, brainstorming) 
-Préstamo: se toma la palabra adaptándolo fonética y morfológicamente (fútbol, aceite)
-Calco: copia de la estructura (auto-servicio, cuenta atrás, baloncesto)
+# Léxicos
+- Eponimia: nombre propio en nombre común (lazarillo, pilates, mecenas)
+- Extranjerismo: se toma la palabra tal cual (software, brainstorming) 
+- Préstamo: se toma la palabra adaptándolo fonética y morfológicamente (fútbol, aceite)
+- Calco: copia de la estructura (auto-servicio, cuenta atrás, baloncesto)
 
-*Fónicos*
-Onomatopeya: imita un sonido (siseo, cuac, tic tac)
-Sigla: iniciales de cada palabra (ADN, GNU, GPS)
-Calco: como la sigla pero permite la pronunciación (RAE, OVNI, ONCE)
+# Fónicos
+- Onomatopeya: imita un sonido (siseo, cuac, tic tac)
+- Sigla: iniciales de cada palabra (ADN, GNU, GPS)
+- Calco: como la sigla pero permite la pronunciación (RAE, OVNI, ONCE)

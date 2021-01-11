@@ -1,28 +1,28 @@
-El habla es la realización concreta e individual de la lengua que cada individuo utiliza para comunicarse.
-Es individual porque cada individuo selecciona las normas lingüísticas de forma distinta. También hay variedades.
+El habla es la realización concreta e individual de la lengua que cada individuo utiliza para comunicarse.  
+Es individual porque cada individuo selecciona las normas lingüísticas de forma distinta. También hay variedades.  
 El habla estándar es un modelo ideal neutro y homogéneo.
 
-**Variedades**
+# Variedades
 Son rasgos peculiares del habla de un grupo de hablantes.
 
-*Variedades diacrónicas*
+## Variedades diacrónicas 
 Dependen de la época (Edad Media, siglo XII, etc)
 
-*Variedades diastráticas*
+## Variedades diastráticas 
 Dependen de la clase social
 Hay una infinidad de factores que pueden influir, pero las principales son:
---Edad
---Profesión
---Formación profesional
+ - Edad
+ - Profesión
+ - Formación profesional
 
-*Variedades diatópicas o dialectos*
-Dependen de la región.
+## Variedades diatópicas o dialectos 
+Dependen de la región.  
 En España se dividen en septentrionales y meridionales. Además se hablan distintas lenguas: castellano, catalán, aranés, gallego, valenciano, euskera/vasco, asturiano.
 
-*Variedades diafásicas*
-Dependen de la situación.
+## Variedades diafásicas 
+Dependen de la situación.  
 Algunos factores que pueden infuir son: contexto, intención del emisor, relación con el receptor o el canal.
 
-**Vulgarismos**
-Son expresiones que se asocian a un sociolecto bajo.
+# Vulgarismos
+Son expresiones que se asocian a un sociolecto bajo.  
 Generalmente son expresiones incorrectas, de las cuales algunas se aceptan pero se restringen a estos grupos.

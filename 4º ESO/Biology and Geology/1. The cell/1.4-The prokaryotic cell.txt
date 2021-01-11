@@ -1,44 +1,44 @@
-**Parts**
+# Parts
 
-*Nucleoid*
+## Nucleoid
 The single circular molecule of DNA floats in the cytoplasm
 
-*Cytoplasm*
+## Cytoplasm
 Gel-like substance that fills the cell.
 
-*Ribosomes*
+## Ribosomes
 Smaller than eukaryotic.
 They produce proteins
 
-*Cell membrane*
+## Cell membrane
 Surrounds the cell and regulates exchange of substances.
 
-*Cell wall*
+## Cell wall
 Protective layer that surrounds the cell membrane and gives it shape.
 There are 2 types: gram+ and gram-
 
-*Capsule*
+## Capsule
 Additional layer surrounding the cell wall.
 It protects and prevents desiccation.
 
-*Pilli*
+## BPilli
 Hairs at the external layer.
 They are involved in genetic material transfer between cells.
 
-*Flagella*
+## Flagella
 Whip-like external structure that allows movement.
 
-*Mesosomes*
+## Mesosomes
 Folded invagintions that are involved in cell division and metabolism
 They contain enzymes.
 
 
-**Shapes**
-Cocci: ball
-Spirilla:spiral
-Vibrios: curved
-Bacilli: rod-shaped
+# Shapes
+- Cocci: ball
+- Spirilla:spiral
+- Vibrios: curved
+- Bacilli: rod-shaped
 
-**Colonies**
-Strepto-(coccus, bacilli...): chain
-Staphylo-(coccus...): cluster
+# Colonies
+- Strepto-(coccus, bacilli...): chain
+- Staphylo-(coccus...): cluster

@@ -1,4 +1,4 @@
 Fuerza: es todo aquello capaz de causar una deformación en un cuerpo o cambiar su estado de movimiento o reposo. Está directamente relacionada con la masa de un cuerpo y la aceleración que obtiene. Es una magnitud vectorial. F = m*a
---Fuerzas dinámicas: provocan cambios en la velocidad del cuerpo.
---Fuerzas estáticas o deformadas: pueden cambiar la estructura del cuerpo.
+- Fuerzas dinámicas: provocan cambios en la velocidad del cuerpo.
+- Fuerzas estáticas o deformadas: pueden cambiar la estructura del cuerpo.
 Ley de la gravitación universal: los cuerpos del universo sufren una fuerz de atracción mutua que es directamente proporcional al producto de sus masas e inversamente proporcional al cuadrado de la distancia que los separa. G = (m1*m2)/d^2.

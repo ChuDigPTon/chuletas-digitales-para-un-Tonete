@@ -1,38 +1,39 @@
-Reproduction is the process by which living things from a species form new indiviuals of the same species.
+Reproduction is the process by which living things from a species form new indiviuals of the same species.  
 Cells are fundamental in the process.
---Unicellular organisms: the whole organism divides to create new cells.
---Multicellular organisms: new individuals are formed from a series of divisions.
+- Unicellular organisms: the whole organism divides to create new cells.
+- Multicellular organisms: new individuals are formed from a series of divisions.
 
-**Asexual reproduction**
-Involves only one parent.
-It is simpler, faster and effective.
+# Asexual reproduction
+Involves only one parent.  
+It is simpler, faster and effective.  
 There is no genetic variation, which means that a hostile environment may lead to extinction.
 
-*Binary fission*
-Unicellular (protozoa, bacteria) and present in multicellular organisms (tissues, tumours).
+## Binary fission
+Unicellular (protozoa, bacteria) and present in multicellular organisms (tissues, tumours).  
 The mother cell divides into 2 daughter cells.
 
-*Budding*
-Unicellular (yeast) and multicellular (sponges, cnidarians).
+## Budding
+Unicellular (yeast) and multicellular (sponges, cnidarians).  
 A bud appears on the surface, which eventually becomes the new individual.
 
-*Multiple fission*
-Unicellular (protozoa).
-The nucleus divides several times. The nuclei share the cytoplasm.
+## Multiple fission
+Unicellular (protozoa).  
+The nucleus divides several times. The nuclei share the cytoplasm.  
 Sporulation: the new individuals have a protective casing that delays development until conditions are suitable.
 
-*Fragmentation*
-Multicellular organisms (starfish, strawberries, potatoes).
+## Fragmentation
+Multicellular organisms (starfish, strawberries, potatoes).  
 The organism divides into 2 or more parts. Each part will eventually become a new individual.
 
-**Sexual reproduction**
+# Sexual reproduction
 Involves 2 parents. The organisms produce specialized sex cells, gametes.
---Monoecious or hermaphrodite: the organism can produce both male and female gametes. It still requires 2 individuals.
---Dioecious or single sexed: each organism can only produce either male or female gametes.
-It is more complex and slower.
-It produces genetic variation, which means that the environment naturally selects the individuals with the best qualities.
+- Monoecious or hermaphrodite: the organism can produce both male and female gametes. It still requires 2 individuals.
+- Dioecious or single sexed: each organism can only produce either male or female gametes.
+
+It is more complex and slower.  
+It produces genetic variation, which means that the environment naturally selects the individuals with the best qualities.  
 Process:
---1) Gametogenesis: production of gametes.
---2) Fertilization: male and female gametes fuse, producing a zygote.
---3) Embryonic development: the zygote divides several times to form a new individual. This phase ends when birth or the seed formation occurs.
---4) Postembryonic development: the new individual continues to grow. It is considered as an adult when it has the ability to reproduce.
+1. Gametogenesis: production of gametes.
+2. Fertilization: male and female gametes fuse, producing a zygote.
+3. Embryonic development: the zygote divides several times to form a new individual. This phase ends when birth or the seed formation occurs.
+4. Postembryonic development: the new individual continues to grow. It is considered as an adult when it has the ability to reproduce.
