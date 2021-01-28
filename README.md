@@ -11,9 +11,9 @@ Sea como sea voy a distribuirlo todo por aquí, así que no pierdas esta página
 
 # Asignaturas actuales
 1. Biología y geología.
-2. Física y química.
+2. Física y química. Sólo las fórmulas. Las explicaciones están abandonadas.
 3. Lengua castellana y literatura.
-4. ~~Inglés~~ Abandonado.
+4. ~~Inglés~~. Abandonado.
 5. Historia y geografía. También tengo líneas del tiempo:
     - [x] [Global 1ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2137160).
     - [x] [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
