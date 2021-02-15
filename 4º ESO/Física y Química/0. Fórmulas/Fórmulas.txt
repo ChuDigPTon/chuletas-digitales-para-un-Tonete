@@ -1,0 +1,49 @@
+# Errores en la medida
+
+Valor real: VR = x + Dm * unidad
+Valor medio: x = (x1 + x2 + ... + x3) / n
+Error absoluto: Ea = Xn/x
+Error relativo: Er = Ea/x
+Desviación media: Dm = (Ea1 + Ea2 + ... + Ea3)/n
+
+
+# Cinemática
+
+## Movimiento linear
+
+Velocidad: v = x/t
+Aceleración: a = v/t
+MRU: Xf = Xi + v*t
+MRUA (Velocidad): Vf = Vi + a*t
+MRUA (Desplazamiento): Xf = Xi + (Vi * t) + (a/2)*t^2
+
+## Movimiento circular
+
+Desplazamiento lineal: S = O*R
+Velocidad lineal: v = w*R
+Periodo y frecuencia: T*f = 1
+Velocidad angular: w = O/t = 2π/t = 2πf
+MCU: Of = Oi + w*t
+Aceleración centrípeta: Ac = (v^2)/t
+
+
+# Dinámica
+
+Segundo principio de Newton: ΣF = m*a
+Peso: P = m*g
+Fuerza de rozamiento: Fr = N*μ
+Fuerza centrípeta: Fc = m*Ac
+Ley de gravitación universal: F = G*(m1*m2)/d^2
+Movimiento de los satélites: v = (G*(m)/d)^1/2
+
+
+# Energía
+
+Trabajo mecánico: W = F*x*cosα
+Energía mecánica: Em = Ep + Ec
+Enegía potencial gravitatoria: Ep = m*g*h
+Energía potencial elástica: Ep = (1/2)*k*(x^2)
+Energía cinética: Ec = (1/2)*m*(v)^2
+Principio 0 de la termodinámica: Q = m*Cp*T
+Primer principio de la termodinámica: Q = U + W
+Calor en los cambios de estado: Q = m*L
