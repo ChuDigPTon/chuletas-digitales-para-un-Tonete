@@ -7,14 +7,14 @@ Sea como sea voy a distribuirlo todo por aquí, así que no pierdas esta página
 - **Para sacar algún resumen específico:** Dirígete a través de las carpetas al archivo necesario para extraer la información requerida. Una vez allí pulsa el botón `Raw`. Después guarda el archivo en tu ordenador (click derecho, guardar página como). De forma alternativa puedes simplemente copiar el texto.
 - **Descargar el paquete completo para los exámenes:** Este es el método recomendado si se acercan los globales y necesitas todos. Dirígete a `Releases` (o haz click [aquí](https://github.com/JustACommonGuy/chuletas-digitales-para-un-Tonete/releases/latest)) y descarga el archivo zip que necesites. El source code es algo alternativo que incluye *todo* el repositorio, cosa que probablemente sea innecesario, así que no lo descargues.
 
-**Para los que quieran copiarlo a un documento/word:** los resúmenes de 4º ESO están presentes en archivos `.md`, lo que significa que están escritas en Markdown. Así podrás ver [esto](https://github.com/JustACommonGuy/chuletas-digitales-para-un-Tonete/blob/main/images/markdown.png?raw=1) en lugar de [esto](https://github.com/JustACommonGuy/chuletas-digitales-para-un-Tonete/blob/main/images/plain_text.png?raw=1). Para verlos, simplemente puedes abrirlos en Github o con un lector/editor Markdown.
+**Para los que quieran copiarlo a un documento/word:** los resúmenes de 4º ESO están presentes en archivos `.md`, lo que significa que están escritas en Markdown. Así podrás ver [esto](https://github.com/JustACommonGuy/chuletas-digitales-para-un-Tonete/blob/main/images/markdown.png?raw=1) en lugar de [esto](https://github.com/JustACommonGuy/chuletas-digitales-para-un-Tonete/blob/main/images/plain_text.png?raw=1). Para verlos, simplemente puedes abrirlos en Github o con un lector/editor Markdown (recomiendo [Markdown View](https://markdownview.tinygoodies.com/#/)).
 
 # Asignaturas actuales
 1. Biología y geología.
 2. Física y química. Sólo las fórmulas. Las explicaciones están abandonadas.
 3. Lengua castellana y literatura.
 4. ~~Inglés~~. Abandonado.
-5. Historia y geografía. También tengo líneas del tiempo:
+5. Historia y geografía. ~~También tengo líneas del tiempo~~ (Por motivos de tiempo, ya no me veo capaz de continuar estos proyectos con la misma cantidad de información. Seguiré añadiendo eventos, pero ya no estarán detallados):
     - [x] [Global 1ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2137160).
     - [x] [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
     - [x] [Global 1ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2363508).
