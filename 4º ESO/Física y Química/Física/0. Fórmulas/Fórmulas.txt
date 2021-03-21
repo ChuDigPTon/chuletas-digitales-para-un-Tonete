@@ -41,7 +41,7 @@ Movimiento de los satélites: v = (G*(m)/d)^1/2
 
 Trabajo mecánico: W = F*x*cosα
 Energía mecánica: Em = Ep + Ec
-Enegía potencial gravitatoria: Ep = m*g*h
+Energía potencial gravitatoria: Ep = m*g*h
 Energía potencial elástica: Ep = (1/2)*k*(x^2)
 Energía cinética: Ec = (1/2)*m*(v)^2
 Principio 0 de la termodinámica: Q = m*Cp*T
