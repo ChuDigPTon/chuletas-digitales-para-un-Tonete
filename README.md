@@ -1,6 +1,7 @@
 # Chuletas Digitales Para un Toñete
-Originalmente tenía todo el repositorio guardado localmente, pero era difícil de manejar, así que me he pasado a [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). Si no sabes usarlo, puedes preguntarme (o usar Google, que es más efectivo).  
-Sea como sea voy a distribuirlo todo por aquí, así que no pierdas esta página de vista.
+Esto es un repositorio donde encontrarás resúmenes (si lo prefieres, *chuletas*) para los contenidos de 3º y 4º ESO. Los creo yo para repasar y estudiar el temario y pensé que podría ayudar a alguien más.  
+Originalmente tenía todo el repositorio guardado localmente, pero era difícil de manejar, así que me he pasado a [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). Si no sabes usarlo, puedes preguntarme (o buscar en Internet, que es más efectivo).  
+Lo distribuyo todo por aquí, así que no pierdas esta página de vista.
 
 # Cómo usar este repositorio
 ~~Es muy fácil~~
@@ -11,15 +12,15 @@ Sea como sea voy a distribuirlo todo por aquí, así que no pierdas esta página
 
 # Asignaturas actuales
 1. Biología y geología.
-2. Física y química. Sólo las fórmulas. Las explicaciones están abandonadas.
+2. Física (sólo fórmulas) y química.
 3. Lengua castellana y literatura.
 4. ~~Inglés~~. Abandonado.
-5. Historia y geografía. ~~También tengo líneas del tiempo~~ (Por motivos de tiempo, ya no me veo capaz de continuar estos proyectos con la misma cantidad de información. Seguiré añadiendo eventos, pero ya no estarán detallados):
+5. Historia y geografía. También tengo líneas del tiempo (muchos no incluyen explicaciones):
     - [x] [Global 1ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2137160).
     - [x] [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
     - [x] [Global 1ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2363508).
-    - [ ] [Global 2ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426239). (Preparados para el parcial).
-    - [ ] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240).
+    - [x] [Global 2ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426239).
+    - [ ] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240). (Preparados para el parcial).
 
 La razón por la que no incluyo otras asignaturas es porque no me sirve de ninguna utilidad a mí, y en muchos casos, a otras personas.  
 De todos modos, eres libre de ofrecerte como contribuidor y hacerte responsable de una asignatura específica
