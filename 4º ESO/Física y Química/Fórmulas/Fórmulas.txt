@@ -47,3 +47,16 @@ Energía cinética: Ec = (1/2)*m*(v)^2
 Principio 0 de la termodinámica: Q = m*Cp*T
 Primer principio de la termodinámica: Q = U + W
 Calor en los cambios de estado: Q = m*L
+
+
+# Reacciones químicas. Estequiometría
+
+Unidad de masa atómica: 1u = m(C-12)/12 = (mp + mn)/2
+Relación entre masa y cantidad de sustancia: n = m/Mm
+Relación entre moles y partículas: n = N/Na
+Ley de los gases ideales: P*V = n*R*T
+Concentración de disoluciones:
+- Porcentaje en masa: C = (ms/md) * 100
+- Porcentaje en volumen: C = (vs/vd) * 100
+- Concentración en masa: C = ms/vd
+- Molaridad o concentración molar: M = ns/vd
