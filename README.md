@@ -20,7 +20,7 @@ Lo distribuyo todo por aquí, así que no pierdas esta página de vista.
     - [x] [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
     - [x] [Global 1ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2363508).
     - [x] [Global 2ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426239).
-    - [ ] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240). (Preparados para el parcial).
+    - [ ] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240).
 
 La razón por la que no incluyo otras asignaturas es porque no me sirve de ninguna utilidad a mí, y en muchos casos, a otras personas.  
 De todos modos, eres libre de ofrecerte como contribuidor y hacerte responsable de una asignatura específica
