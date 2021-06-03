@@ -1,3 +1,5 @@
+:warning: Este proyecto ha sido archivado. Esto significa que ya no se está desarrollando activamente. Si alguien desea hacerse responsable de él, puede contactar conmigo.
+
 # Chuletas Digitales Para un Toñete
 Esto es un repositorio donde encontrarás resúmenes (si lo prefieres, *chuletas*) para los contenidos de 3º y 4º ESO. Los creo yo para repasar y estudiar el temario y pensé que podría ayudar a alguien más.  
 Originalmente tenía todo el repositorio guardado localmente, pero era difícil de manejar, así que me he pasado a [GitHub](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/). Si no sabes usarlo, puedes preguntarme (o buscar en Internet, que es más efectivo).  
@@ -20,7 +22,7 @@ Lo distribuyo todo por aquí, así que no pierdas esta página de vista.
     - [x] [Global 2ª Evaluación, 3º ESO](https://www.timetoast.com/timelines/2189482).
     - [x] [Global 1ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2363508).
     - [x] [Global 2ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426239).
-    - [ ] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240).
+    - [x] [Global 3ª Evaluación, 4º ESO](https://www.timetoast.com/timelines/2426240).
 
 La razón por la que no incluyo otras asignaturas es porque no me sirve de ninguna utilidad a mí, y en muchos casos, a otras personas.  
 De todos modos, eres libre de ofrecerte como contribuidor y hacerte responsable de una asignatura específica
